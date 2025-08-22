@@ -1,0 +1,21 @@
+accelerate
+bitsandbytes
+datasets
+evaluate
+jiwer
+joblib
+librosa
+matplotlib
+nltk
+numpy
+pandas
+peft
+seaborn
+soundfile
+torch
+torchao==0.2.0
+torchaudio
+tqdm
+transformers
+# manually install:
+# uv add flash-attn --no-build-isolation
