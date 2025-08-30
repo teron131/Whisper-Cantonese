@@ -1,5 +1,6 @@
 data*/
 Whisper-Cantonese
+!dataset_scripts
 !*dataset.ipynb
 
 # Byte-compiled / optimized / DLL files
